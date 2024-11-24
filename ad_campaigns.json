@@ -1,0 +1,902 @@
+[
+    {
+        "campaign_id": "80ea4f52-01cc-4ba3-8ce6-3595fdae3188",
+        "start_date": "2024-10-12 10:50:35",
+        "end_date": "2024-10-26 10:50:35",
+        "budget": 4909.9,
+        "clicks": 145,
+        "impressions": 1656,
+        "ctr": 0.0876
+    },
+    {
+        "campaign_id": "73b72b97-5835-479d-b464-86439d8c9797",
+        "start_date": "2024-10-23 10:50:35",
+        "end_date": "2024-11-08 10:50:35",
+        "budget": 5111.6,
+        "clicks": 152,
+        "impressions": 5142,
+        "ctr": 0.0296
+    },
+    {
+        "campaign_id": "891c82a5-2276-430a-abdc-c728137a660b",
+        "start_date": "2024-10-22 10:50:35",
+        "end_date": "2024-11-15 10:50:35",
+        "budget": 7622.53,
+        "clicks": 881,
+        "impressions": 7094,
+        "ctr": 0.1242
+    },
+    {
+        "campaign_id": "fb1a62a3-d64c-460c-94ce-31493afc9655",
+        "start_date": "2024-10-19 10:50:35",
+        "end_date": "2024-11-13 10:50:35",
+        "budget": 2178.49,
+        "clicks": 432,
+        "impressions": 4938,
+        "ctr": 0.0875
+    },
+    {
+        "campaign_id": "d1474b24-564b-4833-9909-f20521a08ac5",
+        "start_date": "2024-11-01 10:50:35",
+        "end_date": "2024-11-13 10:50:35",
+        "budget": 8593.52,
+        "clicks": 767,
+        "impressions": 8014,
+        "ctr": 0.0957
+    },
+    {
+        "campaign_id": "a747ef52-8c59-4fb8-afc4-0275e6149447",
+        "start_date": "2024-10-11 10:50:35",
+        "end_date": "2024-11-01 10:50:35",
+        "budget": 4735.16,
+        "clicks": 875,
+        "impressions": 6131,
+        "ctr": 0.1427
+    },
+    {
+        "campaign_id": "cd2a0276-b0d1-42cb-b1cc-6f0e9f232b00",
+        "start_date": "2024-10-27 10:50:35",
+        "end_date": "2024-11-21 10:50:35",
+        "budget": 8657.26,
+        "clicks": 538,
+        "impressions": 3574,
+        "ctr": 0.1505
+    },
+    {
+        "campaign_id": "1d3a125a-9fdf-423a-9d05-30016f5b383b",
+        "start_date": "2024-11-09 10:50:35",
+        "end_date": "2024-12-08 10:50:35",
+        "budget": 2151.43,
+        "clicks": 952,
+        "impressions": 7412,
+        "ctr": 0.1284
+    },
+    {
+        "campaign_id": "af061a9c-52a0-4b1e-95e6-831e4a580ba4",
+        "start_date": "2024-10-16 10:50:35",
+        "end_date": "2024-11-09 10:50:35",
+        "budget": 7617.84,
+        "clicks": 294,
+        "impressions": 7940,
+        "ctr": 0.037
+    },
+    {
+        "campaign_id": "6d3ddbb3-f072-40be-a5d8-e958eaf8b4e6",
+        "start_date": "2024-10-26 10:50:35",
+        "end_date": "2024-11-24 10:50:35",
+        "budget": 7253.58,
+        "clicks": 832,
+        "impressions": 9815,
+        "ctr": 0.0848
+    },
+    {
+        "campaign_id": "7cf7a84c-404d-4b30-bd21-73e0bd2b5ec2",
+        "start_date": "2024-10-26 10:50:35",
+        "end_date": "2024-11-17 10:50:35",
+        "budget": 9399.63,
+        "clicks": 980,
+        "impressions": 2172,
+        "ctr": 0.4512
+    },
+    {
+        "campaign_id": "78b48421-3c30-42c2-a28d-6a77666f2225",
+        "start_date": "2024-10-26 10:50:35",
+        "end_date": "2024-11-16 10:50:35",
+        "budget": 1510.4,
+        "clicks": 731,
+        "impressions": 2009,
+        "ctr": 0.3639
+    },
+    {
+        "campaign_id": "15bcca80-2c57-4273-ada7-acf09317e84d",
+        "start_date": "2024-10-17 10:50:35",
+        "end_date": "2024-11-09 10:50:35",
+        "budget": 8221.95,
+        "clicks": 660,
+        "impressions": 1771,
+        "ctr": 0.3727
+    },
+    {
+        "campaign_id": "3f301fc8-0aac-4bbd-90ca-7f8c715d09d1",
+        "start_date": "2024-10-30 10:50:35",
+        "end_date": "2024-11-18 10:50:35",
+        "budget": 6978.37,
+        "clicks": 143,
+        "impressions": 8287,
+        "ctr": 0.0173
+    },
+    {
+        "campaign_id": "a7913815-05cc-48db-bba8-1006419a87aa",
+        "start_date": "2024-10-31 10:50:35",
+        "end_date": "2024-11-16 10:50:35",
+        "budget": 5444.59,
+        "clicks": 787,
+        "impressions": 9318,
+        "ctr": 0.0845
+    },
+    {
+        "campaign_id": "d1837704-42bd-44cf-8c82-357a48b1d5c0",
+        "start_date": "2024-10-12 10:50:35",
+        "end_date": "2024-10-20 10:50:35",
+        "budget": 3213.6,
+        "clicks": 289,
+        "impressions": 3687,
+        "ctr": 0.0784
+    },
+    {
+        "campaign_id": "f54b690b-a851-4ff9-a6a6-b79eadf2ef65",
+        "start_date": "2024-11-08 10:50:35",
+        "end_date": "2024-12-05 10:50:35",
+        "budget": 7870.51,
+        "clicks": 486,
+        "impressions": 5708,
+        "ctr": 0.0851
+    },
+    {
+        "campaign_id": "7df854cd-db94-4aa2-8666-9470b28fbb7b",
+        "start_date": "2024-10-12 10:50:35",
+        "end_date": "2024-11-06 10:50:35",
+        "budget": 9444.34,
+        "clicks": 269,
+        "impressions": 5885,
+        "ctr": 0.0457
+    },
+    {
+        "campaign_id": "7a500040-c083-4b5a-af78-e4b81d32b1e3",
+        "start_date": "2024-10-13 10:50:35",
+        "end_date": "2024-10-16 10:50:35",
+        "budget": 5014.95,
+        "clicks": 268,
+        "impressions": 9627,
+        "ctr": 0.0278
+    },
+    {
+        "campaign_id": "b7cc3b65-4251-44ea-8737-24bc13a8754f",
+        "start_date": "2024-10-14 10:50:35",
+        "end_date": "2024-10-25 10:50:35",
+        "budget": 9902.59,
+        "clicks": 934,
+        "impressions": 3670,
+        "ctr": 0.2545
+    },
+    {
+        "campaign_id": "1a2fd30d-e0e0-46fb-9412-19430b0b5e08",
+        "start_date": "2024-11-08 10:50:35",
+        "end_date": "2024-12-08 10:50:35",
+        "budget": 2104.85,
+        "clicks": 264,
+        "impressions": 2195,
+        "ctr": 0.1203
+    },
+    {
+        "campaign_id": "9948198c-e038-4c6d-961c-972585e353f0",
+        "start_date": "2024-10-25 10:50:35",
+        "end_date": "2024-11-19 10:50:35",
+        "budget": 8992.65,
+        "clicks": 366,
+        "impressions": 8958,
+        "ctr": 0.0409
+    },
+    {
+        "campaign_id": "9dea7776-4c26-40d1-9dad-6fc21de43183",
+        "start_date": "2024-11-07 10:50:35",
+        "end_date": "2024-11-16 10:50:35",
+        "budget": 8836.71,
+        "clicks": 302,
+        "impressions": 1142,
+        "ctr": 0.2644
+    },
+    {
+        "campaign_id": "c84d505e-4489-4b90-9de8-0e44f082cd00",
+        "start_date": "2024-11-06 10:50:35",
+        "end_date": "2024-12-02 10:50:35",
+        "budget": 8925.35,
+        "clicks": 857,
+        "impressions": 2695,
+        "ctr": 0.318
+    },
+    {
+        "campaign_id": "d82d271d-1ce3-422c-b9d0-28fa0a9f9eff",
+        "start_date": "2024-10-11 10:50:35",
+        "end_date": "2024-10-29 10:50:35",
+        "budget": 5266.86,
+        "clicks": 836,
+        "impressions": 9033,
+        "ctr": 0.0925
+    },
+    {
+        "campaign_id": "c9aec7a6-2876-4027-b2a5-14715700db6e",
+        "start_date": "2024-10-15 10:50:35",
+        "end_date": "2024-11-06 10:50:35",
+        "budget": 2062.39,
+        "clicks": 961,
+        "impressions": 2787,
+        "ctr": 0.3448
+    },
+    {
+        "campaign_id": "8ea28d67-1ede-4144-8d3b-74def3c548a0",
+        "start_date": "2024-10-29 10:50:35",
+        "end_date": "2024-11-05 10:50:35",
+        "budget": 5975.71,
+        "clicks": 837,
+        "impressions": 5871,
+        "ctr": 0.1426
+    },
+    {
+        "campaign_id": "ca7c9f8e-f260-4cd6-976b-ed6cf3c5c99a",
+        "start_date": "2024-11-05 10:50:35",
+        "end_date": "2024-11-09 10:50:35",
+        "budget": 2639.82,
+        "clicks": 932,
+        "impressions": 2089,
+        "ctr": 0.4461
+    },
+    {
+        "campaign_id": "f148b31e-df4f-434d-9810-4e19210bbdd4",
+        "start_date": "2024-10-28 10:50:35",
+        "end_date": "2024-11-10 10:50:35",
+        "budget": 6232.76,
+        "clicks": 301,
+        "impressions": 3696,
+        "ctr": 0.0814
+    },
+    {
+        "campaign_id": "b522e1aa-e8d5-41cd-953e-21265ba6b649",
+        "start_date": "2024-11-06 10:50:35",
+        "end_date": "2024-11-21 10:50:35",
+        "budget": 2680.37,
+        "clicks": 668,
+        "impressions": 7049,
+        "ctr": 0.0948
+    },
+    {
+        "campaign_id": "a13332bb-ca75-41ea-8254-1f6ab76dabdb",
+        "start_date": "2024-11-02 10:50:35",
+        "end_date": "2024-12-02 10:50:35",
+        "budget": 1850.05,
+        "clicks": 385,
+        "impressions": 9562,
+        "ctr": 0.0403
+    },
+    {
+        "campaign_id": "1fe0f9dd-f043-414d-8aad-1120468da641",
+        "start_date": "2024-10-12 10:50:35",
+        "end_date": "2024-10-23 10:50:35",
+        "budget": 5524.39,
+        "clicks": 308,
+        "impressions": 4576,
+        "ctr": 0.0673
+    },
+    {
+        "campaign_id": "e7e43099-4fe4-4623-9897-3e782d440f1f",
+        "start_date": "2024-10-21 10:50:35",
+        "end_date": "2024-10-24 10:50:35",
+        "budget": 1298.87,
+        "clicks": 494,
+        "impressions": 7487,
+        "ctr": 0.066
+    },
+    {
+        "campaign_id": "672b12f8-7435-4e3c-8760-cd058892d63b",
+        "start_date": "2024-10-27 10:50:35",
+        "end_date": "2024-11-24 10:50:35",
+        "budget": 1273.82,
+        "clicks": 394,
+        "impressions": 3672,
+        "ctr": 0.1073
+    },
+    {
+        "campaign_id": "41736e0a-4aa7-4db1-9c88-b835e13f96b0",
+        "start_date": "2024-11-01 10:50:35",
+        "end_date": "2024-11-04 10:50:35",
+        "budget": 9792.37,
+        "clicks": 706,
+        "impressions": 7807,
+        "ctr": 0.0904
+    },
+    {
+        "campaign_id": "48195980-adb0-43a4-8ec6-dadcbd0ac4e4",
+        "start_date": "2024-10-15 10:50:35",
+        "end_date": "2024-10-23 10:50:35",
+        "budget": 3178.02,
+        "clicks": 376,
+        "impressions": 9461,
+        "ctr": 0.0397
+    },
+    {
+        "campaign_id": "0f7de702-5010-4b52-ada0-b968e55b9349",
+        "start_date": "2024-10-21 10:50:35",
+        "end_date": "2024-11-03 10:50:35",
+        "budget": 9078.93,
+        "clicks": 889,
+        "impressions": 3255,
+        "ctr": 0.2731
+    },
+    {
+        "campaign_id": "fe4fba09-1775-462c-825c-a4066787f6ea",
+        "start_date": "2024-10-12 10:50:35",
+        "end_date": "2024-10-15 10:50:35",
+        "budget": 9570.02,
+        "clicks": 381,
+        "impressions": 8683,
+        "ctr": 0.0439
+    },
+    {
+        "campaign_id": "93c46e6c-deff-43e4-b907-1ed37896b823",
+        "start_date": "2024-10-17 10:50:35",
+        "end_date": "2024-11-12 10:50:35",
+        "budget": 1923.74,
+        "clicks": 838,
+        "impressions": 1162,
+        "ctr": 0.7212
+    },
+    {
+        "campaign_id": "6707c675-3b05-4210-ac12-e457e2ca5509",
+        "start_date": "2024-10-26 10:50:35",
+        "end_date": "2024-11-10 10:50:35",
+        "budget": 1833.53,
+        "clicks": 508,
+        "impressions": 6962,
+        "ctr": 0.073
+    },
+    {
+        "campaign_id": "7a8d947f-3374-4d43-8063-aff78e8b8699",
+        "start_date": "2024-11-09 10:50:35",
+        "end_date": "2024-11-12 10:50:35",
+        "budget": 8711.07,
+        "clicks": 593,
+        "impressions": 3236,
+        "ctr": 0.1833
+    },
+    {
+        "campaign_id": "295eba07-e3b8-4539-8704-2307a1eaac56",
+        "start_date": "2024-11-09 10:50:35",
+        "end_date": "2024-12-09 10:50:35",
+        "budget": 2904.94,
+        "clicks": 845,
+        "impressions": 4455,
+        "ctr": 0.1897
+    },
+    {
+        "campaign_id": "91c541eb-d1ba-4152-87e3-ecb9de28224b",
+        "start_date": "2024-10-13 10:50:35",
+        "end_date": "2024-10-28 10:50:35",
+        "budget": 9367.0,
+        "clicks": 292,
+        "impressions": 4026,
+        "ctr": 0.0725
+    },
+    {
+        "campaign_id": "bbb3bcf2-5c91-41da-af46-d2547e10529f",
+        "start_date": "2024-11-04 10:50:35",
+        "end_date": "2024-11-29 10:50:35",
+        "budget": 3405.21,
+        "clicks": 165,
+        "impressions": 1401,
+        "ctr": 0.1178
+    },
+    {
+        "campaign_id": "c980b66d-3204-403e-9205-4f2e4a862c81",
+        "start_date": "2024-10-30 10:50:35",
+        "end_date": "2024-11-08 10:50:35",
+        "budget": 4656.66,
+        "clicks": 1000,
+        "impressions": 9016,
+        "ctr": 0.1109
+    },
+    {
+        "campaign_id": "ec24d28d-cd6e-4b46-abdd-d569905b58c3",
+        "start_date": "2024-10-30 10:50:35",
+        "end_date": "2024-11-06 10:50:35",
+        "budget": 3536.99,
+        "clicks": 712,
+        "impressions": 5505,
+        "ctr": 0.1293
+    },
+    {
+        "campaign_id": "fb7fad6d-9a8a-4330-86f6-eb11f7ba4cb7",
+        "start_date": "2024-11-01 10:50:35",
+        "end_date": "2024-11-10 10:50:35",
+        "budget": 9752.56,
+        "clicks": 460,
+        "impressions": 3573,
+        "ctr": 0.1287
+    },
+    {
+        "campaign_id": "c65b5ed8-354c-4411-b6fe-66e8bbd8a1d8",
+        "start_date": "2024-10-16 10:50:35",
+        "end_date": "2024-11-11 10:50:35",
+        "budget": 9586.71,
+        "clicks": 926,
+        "impressions": 7663,
+        "ctr": 0.1208
+    },
+    {
+        "campaign_id": "c25a63eb-d9da-4c2a-b415-9d89d3a90131",
+        "start_date": "2024-10-25 10:50:35",
+        "end_date": "2024-10-27 10:50:35",
+        "budget": 3149.84,
+        "clicks": 808,
+        "impressions": 8410,
+        "ctr": 0.0961
+    },
+    {
+        "campaign_id": "362f5cdb-29af-4041-bedf-2d2bf2aeb06e",
+        "start_date": "2024-11-08 10:50:35",
+        "end_date": "2024-11-14 10:50:35",
+        "budget": 3852.26,
+        "clicks": 758,
+        "impressions": 2779,
+        "ctr": 0.2728
+    },
+    {
+        "campaign_id": "7dd63e38-8795-4887-be7a-fb16013d6542",
+        "start_date": "2024-10-23 10:50:35",
+        "end_date": "2024-11-18 10:50:35",
+        "budget": 5666.62,
+        "clicks": 195,
+        "impressions": 5897,
+        "ctr": 0.0331
+    },
+    {
+        "campaign_id": "dfb19e5b-0e08-4482-8536-8fb4877f6a11",
+        "start_date": "2024-10-14 10:50:35",
+        "end_date": "2024-10-30 10:50:35",
+        "budget": 7123.1,
+        "clicks": 816,
+        "impressions": 8681,
+        "ctr": 0.094
+    },
+    {
+        "campaign_id": "285a0c0a-4c08-40f9-9b26-917e80556f6d",
+        "start_date": "2024-10-18 10:50:35",
+        "end_date": "2024-11-09 10:50:35",
+        "budget": 5759.77,
+        "clicks": 932,
+        "impressions": 8332,
+        "ctr": 0.1119
+    },
+    {
+        "campaign_id": "3409bf58-654e-463b-bc56-271f470bd604",
+        "start_date": "2024-11-05 10:50:35",
+        "end_date": "2024-11-22 10:50:35",
+        "budget": 7091.06,
+        "clicks": 403,
+        "impressions": 4840,
+        "ctr": 0.0833
+    },
+    {
+        "campaign_id": "62b56bb6-fcf6-4a1d-9655-10703376068b",
+        "start_date": "2024-10-12 10:50:35",
+        "end_date": "2024-11-01 10:50:35",
+        "budget": 6342.95,
+        "clicks": 184,
+        "impressions": 4684,
+        "ctr": 0.0393
+    },
+    {
+        "campaign_id": "2dfdee0b-28b0-4ad9-b115-e2126dd74414",
+        "start_date": "2024-11-03 10:50:35",
+        "end_date": "2024-11-08 10:50:35",
+        "budget": 7370.27,
+        "clicks": 867,
+        "impressions": 2341,
+        "ctr": 0.3704
+    },
+    {
+        "campaign_id": "5193357a-3f59-4056-b83c-201ccd1101e1",
+        "start_date": "2024-10-29 10:50:35",
+        "end_date": "2024-11-14 10:50:35",
+        "budget": 7340.19,
+        "clicks": 504,
+        "impressions": 4537,
+        "ctr": 0.1111
+    },
+    {
+        "campaign_id": "6a61014c-8e9c-4d4c-8ca8-6a194e287ef6",
+        "start_date": "2024-10-18 10:50:35",
+        "end_date": "2024-11-11 10:50:35",
+        "budget": 5749.42,
+        "clicks": 334,
+        "impressions": 3569,
+        "ctr": 0.0936
+    },
+    {
+        "campaign_id": "b21fa430-7755-41b0-a05c-9fade7bda918",
+        "start_date": "2024-10-21 10:50:35",
+        "end_date": "2024-10-28 10:50:35",
+        "budget": 4946.83,
+        "clicks": 514,
+        "impressions": 5812,
+        "ctr": 0.0884
+    },
+    {
+        "campaign_id": "a593f621-82f9-4406-905d-851b7622d511",
+        "start_date": "2024-11-08 10:50:35",
+        "end_date": "2024-11-28 10:50:35",
+        "budget": 4418.52,
+        "clicks": 561,
+        "impressions": 8247,
+        "ctr": 0.068
+    },
+    {
+        "campaign_id": "2deafc05-0aef-4d20-beac-8b88f356be56",
+        "start_date": "2024-10-16 10:50:35",
+        "end_date": "2024-11-01 10:50:35",
+        "budget": 9385.51,
+        "clicks": 672,
+        "impressions": 6636,
+        "ctr": 0.1013
+    },
+    {
+        "campaign_id": "8d1a2882-639a-4d97-86d6-4d3871da6c45",
+        "start_date": "2024-10-12 10:50:35",
+        "end_date": "2024-10-31 10:50:35",
+        "budget": 7459.47,
+        "clicks": 280,
+        "impressions": 7884,
+        "ctr": 0.0355
+    },
+    {
+        "campaign_id": "50dca97e-2a80-4e33-814e-4ad7836eb94a",
+        "start_date": "2024-10-29 10:50:35",
+        "end_date": "2024-11-02 10:50:35",
+        "budget": 3679.63,
+        "clicks": 698,
+        "impressions": 6641,
+        "ctr": 0.1051
+    },
+    {
+        "campaign_id": "b3f9ab09-a698-4e24-85ca-49a0a4452079",
+        "start_date": "2024-10-27 10:50:35",
+        "end_date": "2024-11-09 10:50:35",
+        "budget": 3548.6,
+        "clicks": 400,
+        "impressions": 6734,
+        "ctr": 0.0594
+    },
+    {
+        "campaign_id": "08ca13d9-1e0d-417d-ae28-8bf18172b868",
+        "start_date": "2024-10-16 10:50:35",
+        "end_date": "2024-11-05 10:50:35",
+        "budget": 8973.76,
+        "clicks": 831,
+        "impressions": 6189,
+        "ctr": 0.1343
+    },
+    {
+        "campaign_id": "7c926f37-3ef9-4e47-b64f-49a2e9fa0599",
+        "start_date": "2024-10-20 10:50:35",
+        "end_date": "2024-11-05 10:50:35",
+        "budget": 9706.97,
+        "clicks": 227,
+        "impressions": 3085,
+        "ctr": 0.0736
+    },
+    {
+        "campaign_id": "ddb17fa3-1694-4d9b-b7be-d09d686d2a7b",
+        "start_date": "2024-10-28 10:50:35",
+        "end_date": "2024-11-27 10:50:35",
+        "budget": 1456.32,
+        "clicks": 571,
+        "impressions": 1117,
+        "ctr": 0.5112
+    },
+    {
+        "campaign_id": "7a353cb1-cbe7-4a95-babb-f3b3f155a6b2",
+        "start_date": "2024-10-15 10:50:35",
+        "end_date": "2024-11-05 10:50:35",
+        "budget": 9635.36,
+        "clicks": 612,
+        "impressions": 3087,
+        "ctr": 0.1983
+    },
+    {
+        "campaign_id": "dc76106a-f6e1-4094-ad0a-982956fb8d7e",
+        "start_date": "2024-10-27 10:50:35",
+        "end_date": "2024-11-25 10:50:35",
+        "budget": 8821.06,
+        "clicks": 549,
+        "impressions": 4159,
+        "ctr": 0.132
+    },
+    {
+        "campaign_id": "9e244161-cdae-4772-afa0-ef0411bef48f",
+        "start_date": "2024-10-22 10:50:35",
+        "end_date": "2024-11-10 10:50:35",
+        "budget": 6469.46,
+        "clicks": 355,
+        "impressions": 2616,
+        "ctr": 0.1357
+    },
+    {
+        "campaign_id": "7289b9a5-41b1-4fb2-aa51-75b7464c53bc",
+        "start_date": "2024-10-20 10:50:35",
+        "end_date": "2024-11-19 10:50:35",
+        "budget": 7452.53,
+        "clicks": 700,
+        "impressions": 5838,
+        "ctr": 0.1199
+    },
+    {
+        "campaign_id": "511ab6d1-3b77-4071-a98a-c3b6f79951da",
+        "start_date": "2024-10-28 10:50:35",
+        "end_date": "2024-11-21 10:50:35",
+        "budget": 8973.07,
+        "clicks": 796,
+        "impressions": 4588,
+        "ctr": 0.1735
+    },
+    {
+        "campaign_id": "1551395d-b7e6-4275-b309-6ff7f5aa096b",
+        "start_date": "2024-11-08 10:50:35",
+        "end_date": "2024-11-15 10:50:35",
+        "budget": 7727.63,
+        "clicks": 956,
+        "impressions": 2841,
+        "ctr": 0.3365
+    },
+    {
+        "campaign_id": "42f84cff-729f-468d-a1c3-b5fda1383c73",
+        "start_date": "2024-10-19 10:50:35",
+        "end_date": "2024-10-21 10:50:35",
+        "budget": 2172.38,
+        "clicks": 406,
+        "impressions": 5984,
+        "ctr": 0.0678
+    },
+    {
+        "campaign_id": "6649e767-a1f9-492e-9677-2265c56762d7",
+        "start_date": "2024-10-20 10:50:35",
+        "end_date": "2024-11-09 10:50:35",
+        "budget": 6256.08,
+        "clicks": 537,
+        "impressions": 8408,
+        "ctr": 0.0639
+    },
+    {
+        "campaign_id": "e175af87-d5e6-41b7-82c6-2dc7211e42db",
+        "start_date": "2024-10-29 10:50:35",
+        "end_date": "2024-11-05 10:50:35",
+        "budget": 1836.57,
+        "clicks": 698,
+        "impressions": 6202,
+        "ctr": 0.1125
+    },
+    {
+        "campaign_id": "5c7b7d8a-9548-4a63-a5d4-55c00c53ae24",
+        "start_date": "2024-10-27 10:50:35",
+        "end_date": "2024-11-23 10:50:35",
+        "budget": 7421.32,
+        "clicks": 852,
+        "impressions": 4618,
+        "ctr": 0.1845
+    },
+    {
+        "campaign_id": "e0b113e7-f343-422a-b7f9-e4c3a2a699cd",
+        "start_date": "2024-10-11 10:50:35",
+        "end_date": "2024-10-30 10:50:35",
+        "budget": 5299.26,
+        "clicks": 386,
+        "impressions": 7216,
+        "ctr": 0.0535
+    },
+    {
+        "campaign_id": "5515589e-08d4-48d4-9b6e-56c7334841ff",
+        "start_date": "2024-10-25 10:50:35",
+        "end_date": "2024-11-02 10:50:35",
+        "budget": 7954.45,
+        "clicks": 243,
+        "impressions": 8541,
+        "ctr": 0.0285
+    },
+    {
+        "campaign_id": "6cf9fb74-b1f3-412c-a68c-2d8fe2cbe673",
+        "start_date": "2024-10-16 10:50:35",
+        "end_date": "2024-11-02 10:50:35",
+        "budget": 9905.72,
+        "clicks": 410,
+        "impressions": 7648,
+        "ctr": 0.0536
+    },
+    {
+        "campaign_id": "98c48369-e408-4e5e-b478-0c44d493654d",
+        "start_date": "2024-10-24 10:50:35",
+        "end_date": "2024-11-08 10:50:35",
+        "budget": 8833.49,
+        "clicks": 165,
+        "impressions": 7290,
+        "ctr": 0.0226
+    },
+    {
+        "campaign_id": "985ae13d-972e-4167-b72a-4951cce6d78f",
+        "start_date": "2024-11-07 10:50:35",
+        "end_date": "2024-11-18 10:50:35",
+        "budget": 3342.3,
+        "clicks": 277,
+        "impressions": 5483,
+        "ctr": 0.0505
+    },
+    {
+        "campaign_id": "253e99b8-1b66-4f9a-ae9e-cb25847b3c49",
+        "start_date": "2024-10-14 10:50:35",
+        "end_date": "2024-10-29 10:50:35",
+        "budget": 4134.39,
+        "clicks": 904,
+        "impressions": 3480,
+        "ctr": 0.2598
+    },
+    {
+        "campaign_id": "0ace5146-cb2b-43eb-8d5e-e9b9077c1911",
+        "start_date": "2024-10-16 10:50:35",
+        "end_date": "2024-10-17 10:50:35",
+        "budget": 3845.97,
+        "clicks": 921,
+        "impressions": 8886,
+        "ctr": 0.1036
+    },
+    {
+        "campaign_id": "857d162f-c968-4be2-9a00-105645d00bfb",
+        "start_date": "2024-10-16 10:50:35",
+        "end_date": "2024-11-06 10:50:35",
+        "budget": 8950.17,
+        "clicks": 450,
+        "impressions": 7518,
+        "ctr": 0.0599
+    },
+    {
+        "campaign_id": "88ab43ff-744b-4b3a-9fbd-1d9d19f3d403",
+        "start_date": "2024-10-15 10:50:35",
+        "end_date": "2024-10-30 10:50:35",
+        "budget": 5401.51,
+        "clicks": 485,
+        "impressions": 9006,
+        "ctr": 0.0539
+    },
+    {
+        "campaign_id": "0d91277b-25cd-4e16-af14-416f24ee91f6",
+        "start_date": "2024-11-08 10:50:35",
+        "end_date": "2024-11-29 10:50:35",
+        "budget": 8536.98,
+        "clicks": 684,
+        "impressions": 1103,
+        "ctr": 0.6201
+    },
+    {
+        "campaign_id": "d344bf84-d3b8-4329-a339-80428955e223",
+        "start_date": "2024-10-27 10:50:35",
+        "end_date": "2024-11-12 10:50:35",
+        "budget": 8261.39,
+        "clicks": 573,
+        "impressions": 2439,
+        "ctr": 0.2349
+    },
+    {
+        "campaign_id": "71bb68fe-cea3-4322-af8b-83cc273149ce",
+        "start_date": "2024-11-01 10:50:35",
+        "end_date": "2024-12-01 10:50:35",
+        "budget": 4417.6,
+        "clicks": 535,
+        "impressions": 7138,
+        "ctr": 0.075
+    },
+    {
+        "campaign_id": "85ba174c-cd32-44ea-b16d-69f746ee2a0c",
+        "start_date": "2024-10-31 10:50:35",
+        "end_date": "2024-11-09 10:50:35",
+        "budget": 3643.92,
+        "clicks": 918,
+        "impressions": 6668,
+        "ctr": 0.1377
+    },
+    {
+        "campaign_id": "efe79c8d-b102-4439-99f0-93533c4a6bf9",
+        "start_date": "2024-11-07 10:50:35",
+        "end_date": "2024-11-19 10:50:35",
+        "budget": 2426.94,
+        "clicks": 434,
+        "impressions": 9199,
+        "ctr": 0.0472
+    },
+    {
+        "campaign_id": "707cb667-cb88-47d7-9734-39f72b377308",
+        "start_date": "2024-10-17 10:50:35",
+        "end_date": "2024-11-14 10:50:35",
+        "budget": 2651.44,
+        "clicks": 668,
+        "impressions": 3709,
+        "ctr": 0.1801
+    },
+    {
+        "campaign_id": "3b24ba6f-4239-4f14-9393-ffb7736560ed",
+        "start_date": "2024-10-18 10:50:35",
+        "end_date": "2024-11-03 10:50:35",
+        "budget": 6688.52,
+        "clicks": 475,
+        "impressions": 2243,
+        "ctr": 0.2118
+    },
+    {
+        "campaign_id": "46ce84b4-07cf-4978-952d-9318d92ba343",
+        "start_date": "2024-10-30 10:50:35",
+        "end_date": "2024-11-09 10:50:35",
+        "budget": 5451.34,
+        "clicks": 978,
+        "impressions": 4688,
+        "ctr": 0.2086
+    },
+    {
+        "campaign_id": "7130096c-4027-449c-8156-d989fa1503a4",
+        "start_date": "2024-11-04 10:50:35",
+        "end_date": "2024-12-02 10:50:35",
+        "budget": 6297.97,
+        "clicks": 411,
+        "impressions": 9488,
+        "ctr": 0.0433
+    },
+    {
+        "campaign_id": "408db429-b4ff-48a1-9692-1a58bf741984",
+        "start_date": "2024-10-14 10:50:35",
+        "end_date": "2024-10-30 10:50:35",
+        "budget": 7030.44,
+        "clicks": 883,
+        "impressions": 1560,
+        "ctr": 0.566
+    },
+    {
+        "campaign_id": "c625a3e5-4058-4a5b-88d7-8d4553b942b9",
+        "start_date": "2024-10-12 10:50:35",
+        "end_date": "2024-11-11 10:50:35",
+        "budget": 1563.33,
+        "clicks": 783,
+        "impressions": 2555,
+        "ctr": 0.3065
+    },
+    {
+        "campaign_id": "f3190fb4-7b9a-48e2-a158-e5f9a24d3418",
+        "start_date": "2024-10-11 10:50:35",
+        "end_date": "2024-10-18 10:50:35",
+        "budget": 3266.65,
+        "clicks": 558,
+        "impressions": 3613,
+        "ctr": 0.1544
+    },
+    {
+        "campaign_id": "0ecfd376-2217-44ff-8e28-24a1dc1dc00b",
+        "start_date": "2024-10-13 10:50:35",
+        "end_date": "2024-11-10 10:50:35",
+        "budget": 9432.15,
+        "clicks": 968,
+        "impressions": 5988,
+        "ctr": 0.1617
+    },
+    {
+        "campaign_id": "e03a7738-b0f9-47d2-8f06-f63ce97748a5",
+        "start_date": "2024-11-09 10:50:35",
+        "end_date": "2024-11-25 10:50:35",
+        "budget": 4794.46,
+        "clicks": 812,
+        "impressions": 3655,
+        "ctr": 0.2222
+    }
+]
