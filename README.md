@@ -49,7 +49,7 @@ L'architecture du Data Lake repose sur **AWS** et les services suivants :
 
 - **API REST (Django)** :
   - Expose les données transformées via une **API REST** pour les utilisateurs finaux.  
-  - Développée avec **Flask (Python)**, cette API permet des **requêtes HTTP** pour accéder aux données.
+  - Développée avec **Django (Python)**, cette API permet des **requêtes HTTP** pour accéder aux données.
   - Sert d'interface entre le Data Lake et les outils des utilisateurs finaux.
 
 
