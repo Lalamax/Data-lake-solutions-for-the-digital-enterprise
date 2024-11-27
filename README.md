@@ -484,6 +484,8 @@ Pour lancer l'API :
     
 3. L'API sera accessible à l'adresse `http://127.0.0.1:8000/api/`
 
+Exempke de requete sur Postman :
+http://127.0.0.1:8000/api/query-table/?table=kafka_ing_social_data&limit=10
 ---
 
 #### Conclusion
