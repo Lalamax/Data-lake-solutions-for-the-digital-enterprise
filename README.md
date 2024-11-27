@@ -150,6 +150,8 @@ aws s3 mb s3://kafka-ing-ad-campaigns
 ```
 
 ### Lancement des scripts Python
+pip install botocore==1.27.4
+pip install aiobotocore==2.2.0
 Exécution des scripts `producer.py` et `consumer.py` pour envoyer et recevoir des messages de Kafka.
 
 ### Création des Crawlers AWS Glue
@@ -345,13 +347,13 @@ Pour utiliser cette API, les bibliothèques suivantes doivent être installées 
 #### 4. Déploiement
 
 Pour lancer l'API :
-
+pip install --upgrade botocore boto3
 1. Configurer les permissions IAM pour que l'utilisateur ou le rôle accède à Athena et aux buckets S3.
 2. Lancer le serveur Django :
     
     `python manage.py runserver`
     
-3. L'API sera accessible à l'adresse `http://127.0.0.1:8000/api/`
+3. L'API sera accessible à l'adresse `http://127.0.0.1:8000/swagger/`
 
 Exempke de requete sur Postman :
 http://127.0.0.1:8000/api/query-table/?table=kafka_ing_social_data&limit=10
