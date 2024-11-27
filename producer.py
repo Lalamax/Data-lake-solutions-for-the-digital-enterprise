@@ -7,19 +7,19 @@ from time import sleep
 
 # Producer pour chaque source
 producer_transactions = KafkaProducer(
-    bootstrap_servers=['ec2-13-39-24-144.eu-west-3.compute.amazonaws.com:9092'], 
+    bootstrap_servers=['35.180.190.239:9092'], 
     value_serializer=lambda x: dumps(x).encode('utf-8')
 )
 producer_logs = KafkaProducer(
-    bootstrap_servers=['ec2-13-39-24-144.eu-west-3.compute.amazonaws.com:9092'], 
+    bootstrap_servers=['35.180.190.239:9092'], 
     value_serializer=lambda x: dumps(x).encode('utf-8')
 )
 producer_social = KafkaProducer(
-    bootstrap_servers=['ec2-13-39-24-144.eu-west-3.compute.amazonaws.com:9092'], 
+    bootstrap_servers=['35.180.190.239:9092'], 
     value_serializer=lambda x: dumps(x).encode('utf-8')
 )
 producer_ads = KafkaProducer(
-    bootstrap_servers=['ec2-13-39-24-144.eu-west-3.compute.amazonaws.com:9092'], 
+    bootstrap_servers=['35.180.190.239:9092'], 
     value_serializer=lambda x: dumps(x).encode('utf-8')
 )
 

@@ -6,22 +6,22 @@ import threading
 # consumer Kafka
 consumer_transactions = KafkaConsumer(
     'transactions_topic',
-    bootstrap_servers=['ec2-13-39-24-144.eu-west-3.compute.amazonaws.com:9092'],
+    bootstrap_servers=['35.180.190.239:9092'],  # Adresse IP directe
     value_deserializer=lambda x: json.loads(x.decode('utf-8'))
 )
 consumer_logs = KafkaConsumer(
     'logs_topic',
-    bootstrap_servers=['ec2-13-39-24-144.eu-west-3.compute.amazonaws.com:9092'],
+    bootstrap_servers=['35.180.190.239:9092'],  # Adresse IP directe
     value_deserializer=lambda x: json.loads(x.decode('utf-8'))
 )
 consumer_social = KafkaConsumer(
     'social_data_topic',
-    bootstrap_servers=['ec2-13-39-24-144.eu-west-3.compute.amazonaws.com:9092'],
+    bootstrap_servers=['35.180.190.239:9092'],  # Adresse IP directe
     value_deserializer=lambda x: json.loads(x.decode('utf-8'))
 )
 consumer_ads = KafkaConsumer(
     'ad_campaigns_topic',
-    bootstrap_servers=['ec2-13-39-24-144.eu-west-3.compute.amazonaws.com:9092'],
+    bootstrap_servers=['35.180.190.239:9092'],  # Adresse IP directe
     value_deserializer=lambda x: json.loads(x.decode('utf-8'))
 )
 
