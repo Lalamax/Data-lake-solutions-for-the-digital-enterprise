@@ -61,8 +61,7 @@ L'architecture du Data Lake repose sur **AWS** et les services suivants :
 
 ### Diagramme de flux de données
 
-![[Pasted image 20241125093537.png]]
-
+![Architecture shéma](Pasted%20image%2020241125093537.png)
 
 ---
 
